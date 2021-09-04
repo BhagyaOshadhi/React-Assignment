@@ -11,10 +11,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@hookstate/core": "^3.0.8",
+    "@material-ui/core": "^4.12.3",
     "babel-cli": "^6.26.0",
     "babel-preset-react-app": "^3.1.2",
+    "bootstrap": "^5.1.0",
     "cool-ascii-faces": "^1.3.4",
-    "json-server": "^0.9.6"
+    "json-server": "^0.9.6",
+    "react-bootstrap": "^2.0.0-beta.6"
   },
   "devDependencies": {},
   "keywords": []
